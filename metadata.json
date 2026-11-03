@@ -1,0 +1,6 @@
+{
+  "name": "ToolMapper AI",
+  "description": "Minimalist terminal-style tool functionality mapper with extreme token economy and secure gatekeeper authorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
